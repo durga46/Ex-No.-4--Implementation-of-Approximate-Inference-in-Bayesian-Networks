@@ -40,7 +40,7 @@ Program :
 ```
 Developed By : DurgaDevi P
 Register No. : 212221230015
-```
+
 
 # Import the necessary libraries
 
@@ -121,7 +121,7 @@ print('\n Approximate probabilities of {}:'.format(query_variable))
 print(query_result)
 
 ```
-```
+
 # Output :
 
 ![268047748-6934c7b6-718b-452f-abca-c7c099530b17](https://github.com/durga46/Ex-No.-4--Implementation-of-Approximate-Inference-in-Bayesian-Networks/assets/75235704/fb046cd9-0856-4d7a-905c-0c0b55972a2c)
