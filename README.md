@@ -38,10 +38,6 @@ To construct a python program to implement approximate inference using Gibbs Sam
 
 Program :
 ```
-Developed By : DurgaDevi P
-Register No. : 212221230015
-
-
 # Import the necessary libraries
 
 from pgmpy.models import BayesianNetwork
@@ -119,7 +115,6 @@ query_result=samples[query_variable].value_counts(normalize=True)
 
 print('\n Approximate probabilities of {}:'.format(query_variable))
 print(query_result)
-
 ```
 
 # Output :
